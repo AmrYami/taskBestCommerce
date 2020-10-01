@@ -41,7 +41,6 @@ class ProductRepository
         $products->where('inventory', '>', 4);
 
         $products = $products->paginate(5, ['*'], 'page', $pageNumber);
-        return $products;
         if ($products)
             return $products;
         return false;

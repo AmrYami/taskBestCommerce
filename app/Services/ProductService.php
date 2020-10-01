@@ -30,8 +30,8 @@ class ProductService
     public function listItems(Request $request)
     {
         $result = $this->productRepository->listItems($request);
-        if ($result)
-            return $result->map(function ($row) {
+        if ($result) {
+            $result->getCollection()->transform(function ($row, $key) {
                 $discount = ($row->discount_percentage / 100) * $row->unit_price;
                 $accept = $discount ? strtotime($row->discount_end_date) > strtotime('now') : '';
                 return [
@@ -50,7 +50,9 @@ class ProductService
                     "discount" => $accept ? $accept : '',
                     "price_after_discount" => $accept ? $row->unit_price - $discount : '',
                 ];
-            });;
+            });
+            return $result;
+        }
         return false;
     }
 
