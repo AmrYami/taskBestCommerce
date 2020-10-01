@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="142e8d8f-5e97-4255-9bff-21cf424e809e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SOLID-in-php-crash-course-master/.idea/SOLID-in-php-crash-course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogTest/.idea/blogTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/.idea/design-patterns-withSolid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/basicAuthLib/classes/BasicAuth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/chainOfResponsibility/abstracts/AbstractHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/chainOfResponsibility/classes/AfafHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/chainOfResponsibility/classes/AliHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/chainOfResponsibility/classes/MohsenHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/chainOfResponsibility/interfaces/HandlerInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/chainOfResponsibility/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/chainOfResponsibility/requests/Request.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/command/note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/designPatterns/types" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/interpreter/notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/iterator/notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/mediator/abstracts/BookColleague.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/mediator/classes/BookAuthorColleague.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/mediator/classes/BookTitleColleague.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/mediator/mediators/BookMediator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/mediator/note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/mediator/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/memento/notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/state/classes/GumballMachine.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/state/classes/HasQuarterState.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/state/classes/NoQuarterState.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/state/classes/SoldOutState.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/state/classes/SoldState.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/state/classes/WinnerState.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/state/interfaces/GumballInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/state/interfaces/ReFill.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/state/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/templateMethod/abstracts/CaffeineBeverage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/templateMethod/classes/Coffe.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/templateMethod/classes/Tea.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/templateMethod/interfaces/Hook.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/templateMethod/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/visitor/classes/Car.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/visitor/classes/Chair.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/visitor/classes/Mango.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/visitor/interfaces/Visitable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/visitor/interfaces/Visitor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/visitor/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/visitor/visitors/CustomsTax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/visitor/visitors/SalesTax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/behavioral/visitor/visitors/ValueAddedTax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/builder/builders/PrimaBuilder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/builder/builders/RotoBuilder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/builder/classes/PenProducer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/builder/factories/TypeFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/builder/interfaces/PenInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/builder/models/Pen.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/builder/models/Prima.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/builder/models/Roto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/builder/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/factory_method/classes/PrimaBrand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/factory_method/classes/RotoBrand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/factory_method/factories/PrimaFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/factory_method/factories/RotoFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/factory_method/interfaces/BrandFactoryInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/factory_method/interfaces/BrandInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/factory_method/note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/factory_method/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/pool/classes/Book.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/pool/classes/BookPool.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/pool/note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/pool/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/protoType/abstracts/AbstractPantProtoType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/protoType/classes/CotonPants.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/protoType/classes/LeatherPants.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/protoType/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/simpleFactory/classes/Prima.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/simpleFactory/classes/Roto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/simpleFactory/factories/PenFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/simpleFactory/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/staticFactory/classes/Prima.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/staticFactory/classes/Roto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/staticFactory/factories/PenFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/staticFactory/factory variations" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/staticFactory/interfaces/PenInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/creational/staticFactory/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/global" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/newInPHP/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/shapes/Read Me" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/FluentBuilder/QueryBuilder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/FluentBuilder/QueryBuilderInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/adapterThirdParty/adapters/BasicAuthAdapter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/adapterThirdParty/adapters/TokenAuthAdapter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/adapterThirdParty/classes/Login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/adapterThirdParty/interfaces/AuthInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/adapterThirdParty/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/adapterWrapper/adapters/WeaponAdapter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/adapterWrapper/adapters/WeaponAutoAdapter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/adapterWrapper/classes/Auto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/adapterWrapper/classes/Manual.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/adapterWrapper/interfaces/AutoInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/adapterWrapper/interfaces/ManualInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/adapterWrapper/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/bridge/abstractions/Pen.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/bridge/classes/BluePen.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/bridge/classes/Prima.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/bridge/classes/RedPen.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/bridge/classes/Roto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/bridge/interfaces/PenColor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/bridge/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/composite/classes/BigBox.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/composite/classes/GiftBox.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/composite/classes/SimpleBox.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/composite/interfaces/ActionInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/composite/interfaces/GiftInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/composite/interfaces/ProductInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/composite/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/dataMapper/example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/decorator/classes/Car.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/decorator/classes/Painting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/decorator/decorators/BlackDecorator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/decorator/decorators/BlueDecorator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/decorator/decorators/PaintingDecorator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/decorator/decorators/RedDecorator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/decorator/interfaces/PaintingInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/decorator/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/flyweight/classes/GameBoard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/flyweight/classes/GameTile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/flyweight/classes/GameTileBorder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/flyweight/classes/GameTileColor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/flyweight/classes/GameTileLevel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/flyweight/factories/GameTileFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/flyweight/flyweight/GameTileFlyweight.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/flyweight/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/proxy/classes/BankAccount.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/proxy/interfaces/BankAccountInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/proxy/proxy/ATMProxy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/structural/proxy/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns-withSolid/tokenAuthLib/classes/TokenAuth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eprofitcrm-newphase/app/Factories/ModulesFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eprofitcrm-newphase/app/Http/Requests/CreatePushNotification.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../law/.idea/law2005.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../law/sync/.idea/Sync.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../law/syncBills/.idea/Sync.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../law/synccauthor/.idea/Sync.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../law/synccon/.idea/Sync.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../law/syncstore/.idea/Sync.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../law/syncusers/.idea/Sync.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../law/syncuserstore/.idea/Sync.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nursery/.idea/lms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nursery/.idea/nursery.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task/.idea/task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taskCashU/.idea/taskCashU.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xero/.idea/xero.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-travelYalla/Classes/Circle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-travelYalla/Classes/GeometryShape.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-travelYalla/Classes/Rectangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-travelYalla/Factory/ShapeFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-travelYalla/Interfaces/PolygonInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-travelYalla/Interfaces/ShapeInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-travelYalla/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-travelYalla/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-travelYalla/public/shapesData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-travelYalla/vendor/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-travelYalla/vendor/composer/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-travelYalla/vendor/composer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-travelYalla/vendor/composer/autoload_classmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-travelYalla/vendor/composer/autoload_namespaces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-travelYalla/vendor/composer/autoload_psr4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-travelYalla/vendor/composer/autoload_real.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-travelYalla/vendor/composer/autoload_static.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xero/app/Http/Controllers/WebhookController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../xero/app/Http/Controllers/WebhookController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xero/app/Http/Controllers/XeroController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../xero/app/Http/Controllers/XeroController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xero/resources/views/xero.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../xero/resources/views/xero.blade.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1iBF3hfvjVCIp59gBDKnCPqGLkB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pronetwork-backend" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="142e8d8f-5e97-4255-9bff-21cf424e809e" name="Default Changelist" comment="" />
+      <created>1601372881162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601372881162</updated>
+      <workItem from="1601372882299" duration="1329000" />
+      <workItem from="1601465751965" duration="5698000" />
+      <workItem from="1601509621429" duration="8369000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="59" y="24" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601480767861">
+      <screen x="59" y="24" width="1861" height="1176" />
+    </state>
+    <state x="59" y="24" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/59.24.1861.1176@59.24.1861.1176" timestamp="1601480767861" />
+    <state x="662" y="300" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1601511289683">
+      <screen x="59" y="24" width="1861" height="1176" />
+    </state>
+    <state x="662" y="300" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/59.24.1861.1176@59.24.1861.1176" timestamp="1601511289683" />
+    <state x="724" y="300" key="FileChooserDialogImpl" timestamp="1601511111597">
+      <screen x="59" y="24" width="1861" height="1176" />
+    </state>
+    <state x="724" y="300" key="FileChooserDialogImpl/59.24.1861.1176@59.24.1861.1176" timestamp="1601511111597" />
+    <state x="333" y="87" width="1311" height="1021" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601511690436">
+      <screen x="59" y="24" width="1861" height="1176" />
+    </state>
+    <state x="333" y="87" width="1311" height="1021" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/59.24.1861.1176@59.24.1861.1176" timestamp="1601511690436" />
+  </component>
+</project>
