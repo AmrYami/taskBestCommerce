@@ -32,6 +32,8 @@ class ProductService
         $result = $this->productRepository->listItems($request);
         if ($result)
             return $result->map(function ($row) {
+                $discount = ($row->discount_percentage / 100) * $row->unit_price;
+                $accept = $discount ? strtotime($row->discount_end_date) > strtotime('now') : '';
                 return [
                     "id" => $row->id,
                     "product_category" => $row->product_category,
@@ -44,9 +46,9 @@ class ProductService
                     "delivery_options" => $row->delivery_options,
                     "discount_start_date" => $row->discount_start_date,
                     "discount_end_date" => $row->discount_end_date,
-                    "discount_percentage" => $row->discount_percentage,
-                    "discount" => ($row->discount_percentage / 100) * $row->unit_price,
-                    "price_after_discount" => $row->unit_price - (($row->discount_percentage / 100) * $row->unit_price),
+                    "discount_percentage" => $accept ? $row->discount_percentage : '',
+                    "discount" => $accept ? $accept : '',
+                    "price_after_discount" => $accept ? $row->unit_price - $discount : '',
                 ];
             });;
         return false;
@@ -59,8 +61,6 @@ class ProductService
             return $result;
         return false;
     }
-
-
 
 
 }

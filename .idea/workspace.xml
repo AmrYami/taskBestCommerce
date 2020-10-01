@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="142e8d8f-5e97-4255-9bff-21cf424e809e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProductsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProductsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Repositries/ProductRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Repositries/ProductRepository.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Services/ProductService.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Services/ProductService.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,6 +169,8 @@
       <workItem from="1601465751965" duration="5698000" />
       <workItem from="1601509621429" duration="8369000" />
       <workItem from="1601519186887" duration="118000" />
+      <workItem from="1601543004057" duration="1096000" />
+      <workItem from="1601545136650" duration="353000" />
     </task>
     <servers />
   </component>
@@ -181,10 +186,10 @@
       <screen x="59" y="24" width="1861" height="1176" />
     </state>
     <state x="662" y="300" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/59.24.1861.1176@59.24.1861.1176" timestamp="1601511289683" />
-    <state x="724" y="300" width="530" height="596" key="FileChooserDialogImpl" timestamp="1601519303021">
+    <state x="724" y="300" width="530" height="596" key="FileChooserDialogImpl" timestamp="1601545133091">
       <screen x="59" y="24" width="1861" height="1176" />
     </state>
-    <state x="724" y="300" width="530" height="596" key="FileChooserDialogImpl/59.24.1861.1176@59.24.1861.1176" timestamp="1601519303021" />
+    <state x="724" y="300" width="530" height="596" key="FileChooserDialogImpl/59.24.1861.1176@59.24.1861.1176" timestamp="1601545133091" />
     <state x="333" y="87" width="1311" height="1021" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601511690436">
       <screen x="59" y="24" width="1861" height="1176" />
     </state>

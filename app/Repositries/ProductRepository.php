@@ -49,7 +49,6 @@ class ProductRepository
 
     public function createDiscount(Request $request, $productId)
     {
-
         $product = $this->product->where('id', $productId)->where('user_id', auth()->user()->id)->update($request->all());
         if ($product)
             return $product;
