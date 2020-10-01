@@ -10,6 +10,8 @@ class ProductsController extends Controller
 {
     public function __construct()
     {
+        $this->middleware('auth', ['only' => ['index', 'createDiscount']]);
+
         $this->middleware('MerchantUser', ['only' => ['index', 'createDiscount']]);
     }
 

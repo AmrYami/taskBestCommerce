@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="142e8d8f-5e97-4255-9bff-21cf424e809e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProductsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProductsController.php" afterDir="false" />
-    </list>
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
-    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="PhpWorkspaceProjectConfiguration">
+  <component name="PhpIncludePathManager">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/brick/math" />
       <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
@@ -130,64 +113,5 @@
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
-  <component name="ProjectId" id="1iBF3hfvjVCIp59gBDKnCPqGLkB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner scope="XML" />
-      <method v="2" />
-    </configuration>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="142e8d8f-5e97-4255-9bff-21cf424e809e" name="Default Changelist" comment="" />
-      <created>1601372881162</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1601372881162</updated>
-      <workItem from="1601372882299" duration="1329000" />
-      <workItem from="1601465751965" duration="5698000" />
-      <workItem from="1601509621429" duration="8369000" />
-      <workItem from="1601519186887" duration="118000" />
-    </task>
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="59" y="24" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601480767861">
-      <screen x="59" y="24" width="1861" height="1176" />
-    </state>
-    <state x="59" y="24" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/59.24.1861.1176@59.24.1861.1176" timestamp="1601480767861" />
-    <state x="662" y="300" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1601511289683">
-      <screen x="59" y="24" width="1861" height="1176" />
-    </state>
-    <state x="662" y="300" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/59.24.1861.1176@59.24.1861.1176" timestamp="1601511289683" />
-    <state x="724" y="300" width="530" height="596" key="FileChooserDialogImpl" timestamp="1601519303021">
-      <screen x="59" y="24" width="1861" height="1176" />
-    </state>
-    <state x="724" y="300" width="530" height="596" key="FileChooserDialogImpl/59.24.1861.1176@59.24.1861.1176" timestamp="1601519303021" />
-    <state x="333" y="87" width="1311" height="1021" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601511690436">
-      <screen x="59" y="24" width="1861" height="1176" />
-    </state>
-    <state x="333" y="87" width="1311" height="1021" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/59.24.1861.1176@59.24.1861.1176" timestamp="1601511690436" />
-  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
 </project>
