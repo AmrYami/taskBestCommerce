@@ -28,10 +28,10 @@ class ProductsController extends Controller
 
     public function createDiscount(int $productId, CreateDiscountRequest $request, ProductService $productService)
     {
-        return $product = $productService->createDiscount($request, $productId);
+        $product = $productService->createDiscount($request, $productId);
         if ($product)
             return response()->json(array(
-                'product' => $product,
+                'productId' => $product,
             ), 200);
         return Response::json(array('error' => __('you are dont owner for this product')), 200);
     }
